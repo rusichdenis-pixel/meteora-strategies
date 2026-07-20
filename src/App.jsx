@@ -327,7 +327,7 @@ const App = () => {
           <p>
             © 2024 · MIT License · 
             <a 
-              href="https://github.com/rusichdenis-pixel/meteora-strategies" 
+              href="https://github.com/rusichdenis-pixel/meteora-strategies.git" 
               target="_blank"
               rel="noopener noreferrer"
               className="text-purple-400 hover:text-purple-300 ml-1"
